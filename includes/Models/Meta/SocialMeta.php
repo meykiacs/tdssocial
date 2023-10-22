@@ -29,7 +29,6 @@ class SocialMeta extends Meta {
       ],
       'email'  =>  [
         'type'  =>  'string',
-        'format'  => 'email'
       ],
       'linkedin'  =>  [
         'type'  =>  'string',
@@ -38,6 +37,9 @@ class SocialMeta extends Meta {
         'type'  =>  'string',
       ],
       'telegram'  =>  [
+        'type'  =>  'string',
+      ],
+      'youtube'  =>  [
         'type'  =>  'string',
       ],
     ]
